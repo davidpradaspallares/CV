@@ -1,0 +1,24 @@
+/* ################## */
+/* ····· HEADER ····· */
+/* ################## */
+header{
+    text-align: center;
+}
+header h1{
+    margin-bottom: 0%;
+    font-size: 300%;
+    font-family: Arial;
+}
+header canvas{
+    width: 50%;
+    height: 1px;
+    background-color: black;
+    margin-bottom: 0.5%;
+    margin-top: 1%;
+}
+header a{
+    text-decoration: none;
+    color: black;
+    margin-left: 1%;
+    font-family: Arial;
+}

@@ -1,0 +1,182 @@
+/* ################## */
+/* ····· FOOTER ····· */
+/* ################## */
+section #F1{
+    width: 20%;
+    border: solid;
+    float: left;
+    margin-left: 25%;
+    margin-top: 1%;
+}
+#AcerDe{
+    text-align: center;
+    float: left;
+    width: 30%;
+    margin-left: 0.5%;
+    font-family: Arial;
+    margin-top: 8%;
+}
+section #AcerDe h2{
+    font-size: 250%;
+}
+section #Icon1{
+    width: 2%;
+    background-color: rgba(210, 105, 30, 0);
+    position: absolute;
+    margin-top: -3.8%;
+    margin-left: 11.5%;
+}
+section #AcerDe canvas{
+    width: 95%;
+    height: 1px;
+    background-color: black;
+    float: left;
+    margin-left: 2%;
+    margin-bottom: 5%;
+    margin-top: -4%;
+}
+section #AcerDe p{
+    text-align: center;
+    margin-top: -1.5%;
+}
+
+section #Experiencia{
+    float: left;
+    width: 50.5%;
+    margin-left: 25%;
+    text-align: center;
+    font-family: Arial;
+    font-size: 160%;
+}
+section #Icon2{
+    width: 2%;
+    background-color: rgba(210, 105, 30, 0);
+    position: absolute;
+    margin-top: -3.8%;
+    margin-left: 20%;
+}
+section #Experiencia canvas{
+    width: 95%;
+    height: 1px;
+    background-color: black;
+    float: left;
+    margin-left: 2%;
+    /* margin-bottom: 5%; */
+    margin-top: -2%;
+}
+section #Experiencia #ex1{
+    text-align: left;
+    margin-top: -4%;
+}
+section #Experiencia #ex1 img{
+    width: 30%;
+    float: right;
+}
+section #Experiencia #ex1 table{
+    text-align: center;
+    width: 100%;
+    font-family: Arial;
+}
+section #Experiencia #ex1 table tr td{
+    width: 50px;
+}
+section #Experiencia #ex1 table tr td p{
+    padding:1%;
+}
+section #Experiencia #ex1 table tr td .exp{
+    font-size: 80%;
+}
+#Tdi{
+    width: 10px;
+}
+
+
+section #Habilidades{
+    float: left;
+    width: 50.5%;
+    margin-left: 25%;
+    text-align: center;
+    font-family: Arial;
+    font-size: 160%;
+}
+section #Habilidades canvas{
+    width: 95%;
+    height: 1px;
+    background-color: black;
+    float: left;
+    margin-left: 2%;
+    margin-bottom: 5%;
+    margin-top: -2%;
+}
+
+section #Habilidades #uno #img1{
+    width: 40%;
+    margin-left: -35%;
+}
+
+section #Habilidades #uno h3{
+    font-size: 63%;
+    margin-left: -35%;
+}
+
+section #Habilidades #uno p{
+    font-size: 45%;
+    margin-left: -35%;
+}
+
+section #Habilidades #dos img{
+    width: 40%;
+    margin-left: 60%;
+}
+
+section #Habilidades #dos h3{
+    font-size: 63%;
+    margin-left: 62%;
+}
+
+section #Habilidades #dos p{
+    font-size: 45%;
+    margin-left: 62%;
+}
+section #Icon3{
+    width: 2%;
+    background-color: rgba(210, 105, 30, 0);
+    position: absolute;
+    margin-top: -3.7%;
+    margin-left: 20.2%;
+}
+
+section #Contacto{
+    float: left;
+    width: 50.5%;
+    margin-left: 25%;
+    text-align: center;
+    font-family: Arial;
+    font-size: 160%;
+}
+section #Contacto #Ico4{
+    width: 4%;
+    margin-top: -7.1%;
+    float: right;
+}
+section #Contacto canvas{
+    width: 95%;
+    height: 1px;
+    background-color: black;
+    float: left;
+    margin-left: 2%;
+    margin-bottom: 5%;
+    margin-top: -2%;
+}
+section #Contacto img{
+    width: 10%;
+    float: left;
+    margin-left: 20%;
+    margin-right: 5%;
+}
+section #Contacto h3{
+    float: left;
+}
+section #Contacto #img2i{
+    margin-left: 35%;
+}
